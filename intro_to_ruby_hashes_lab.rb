@@ -2,20 +2,13 @@ base_hash
 = {
   :railroads => {
     "monopoly_with_second_tier" =>
-    
-    
-    
-    
+    :pieces => 4, 
+    :rent_in_dollars => {}
+    :names => {}
   }
   }
 end
-  
-monopoly_with_second_tier
-  {
-    :railroads => {:pieces "25", 
-    :rent_in_dollars => {}
-    :names => {}
-    }
+
   }
     
 end
