@@ -1,4 +1,4 @@
-def base_hash
+base_hash
   bash_hash = {
     :railroads => {}
   }
